@@ -1,4 +1,4 @@
-# EXCEL PROJECTS
+# 𝗘𝗫𝗖𝗘𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 [<img src=./images/cw_list.png height=20>](./README.md)
 
